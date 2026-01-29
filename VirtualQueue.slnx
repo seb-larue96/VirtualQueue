@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="VirtualQueue.Api/VirtualQueue.Api.csproj" />
+  <Project Path="VirtualQueue.Application/VirtualQueue.Application.csproj" />
+  <Project Path="VirtualQueue.Domain/VirtualQueue.Domain.csproj" />
+  <Project Path="VirtualQueue.Infrastructure/VirtualQueue.Infrastructure.csproj" />
 </Solution>
